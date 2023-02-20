@@ -35,6 +35,3 @@ A home for all who love to code and jive,
 With a community that's second to none,
 
 A true crown jewel for all who've begun.
-
-Just add a line and I'll delete it later
-
